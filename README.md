@@ -1,7 +1,3 @@
----
-layout: default
----
-
 I’m Norifumi Yamamoto, a chemist specializing in molecular simulation.
 Teaching and sharing the joy of chemistry have also been my passion.
 I hold a professorship at the Chiba Institute of Technology in Japan.
